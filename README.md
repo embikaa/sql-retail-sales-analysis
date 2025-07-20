@@ -24,9 +24,7 @@ total_sale        FLOAT
 
 ```
 retail-sales-analysis/
-│
-├── data/
-│   └── SQL - Retail Sales Analysis_utf
+│── SQL - Retail Sales Analysis_utf
 ├── README.md
 └── sql_retail.sql
 ```
